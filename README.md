@@ -1,4 +1,5 @@
-# AI-Finance-Automation
+# Finance-Transformation-Lab
+
 
 
 AI-assisted finance and controlling workflows using SAP, Excel, Power Query, Python, and large language models (LLMs).
