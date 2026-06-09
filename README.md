@@ -1,21 +1,16 @@
-<div align="right">
-<p align="right">
+# 🚀 Finance Transformation Lab
 
-🇬🇧 <a href="./README.md">English</a> |
-🇩🇪 <a href="./README_DE.md">Deutsch</a> |
-🇨🇳 <a href="./README_CN.md">中文</a>
+### SAP | AI | Manufacturing Finance | Process Improvement | Digital Transformation
 
-</p>
+🌍 **Language**
+
+🇬🇧 [English](README.md) • 🇩🇪 [Deutsch](README_DE.md) • 🇨🇳 [中文](README_CN.md)
 
 ![SAP FI/CO](https://img.shields.io/badge/SAP-FI%2FCO-blue)
 ![PMP](https://img.shields.io/badge/PMP-Certified-green)
 ![AI](https://img.shields.io/badge/AI-Power%20User-orange)
 ![Power Query](https://img.shields.io/badge/Power_Query-Automation-yellow)
 ![Manufacturing](https://img.shields.io/badge/Manufacturing-Finance-red)
-
-# 🚀 Finance Transformation Lab
-
-### SAP | AI | Manufacturing Finance | Process Improvement | Digital Transformation
 
 ---
 
@@ -25,11 +20,22 @@ This repository documents my continuous exploration of how **SAP, AI, automation
 
 It combines practical experience from **manufacturing controlling, SAP FI/CO, Power Query automation, project management and AI experimentation** into reusable templates, ideas and knowledge assets.
 
-Mission
+> **Mission**
 
-Explore how SAP, AI and Process Improvement can improve Finance organizations.
+To bridge Finance, Business and Technology by sharing practical knowledge, reusable templates and AI-enabled ideas for modern Finance organizations.
+---
 
+# 📚 Quick Navigation
 
+| Section | Description |
+|----------|-------------|
+| 🤖 AI for Finance | AI agents and prompts |
+| ⚙️ SAP Transformation | SAP FI/CO knowledge |
+| 📊 Reporting Automation | Power Query & Excel |
+| 📈 Business Cases | NPV & EBITDA |
+| 🔄 Process Improvement | Closing & Forecast |
+| 💡 Lessons Learned | Practical experience |
+| 🔮 Future Finance | SAP + AI |
 
 ---
 
