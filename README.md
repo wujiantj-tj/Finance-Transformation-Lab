@@ -1,6 +1,12 @@
 <div align="right">
+<p align="right">
 
-🇬🇧 English | 🇩🇪 Deutsch | 🇨🇳 中文
+🇬🇧 <a href="./README.md">English</a> |
+🇩🇪 <a href="./README_DE.md">Deutsch</a> |
+🇨🇳 <a href="./README_CN.md">中文</a>
+
+</p>
+
 
 </div>
 
