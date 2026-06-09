@@ -1,7 +1,10 @@
 # 🚀 Finance Transformation Lab
 
-## SAP | AI | Process Improvement | Manufacturing Finance | Digital Transformation
+### A curated knowledge base for SAP, AI, Process Improvement and Manufacturing Finance.
 
+---
+
+Helping finance professionals bridge **Finance, Business and Technology** through practical examples, templates, automation ideas and AI use cases.
 ---
 
 ## 👋 About
