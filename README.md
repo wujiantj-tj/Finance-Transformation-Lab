@@ -1,27 +1,19 @@
 # 🚀 Finance Transformation Lab
 
-### A curated knowledge base for SAP, AI, Process Improvement and Manufacturing Finance.
+### SAP | AI | Manufacturing Finance | Process Improvement | Digital Transformation
 
 ---
 
-Helping finance professionals bridge **Finance, Business and Technology** through practical examples, templates, automation ideas and AI use cases.
----
+## 👋 Welcome
 
-## 👋 About
+This repository documents my continuous exploration of how **SAP, AI, automation and process improvement** can transform Finance organizations.
 
-Welcome to my **Finance Transformation Lab**.
+It combines practical experience from **manufacturing controlling, SAP FI/CO, Power Query automation, project management and AI experimentation** into reusable templates, ideas and knowledge assets.
 
-This repository documents my exploration of **Finance Transformation, SAP process optimization, AI adoption, reporting automation and business process improvement** in manufacturing organizations.
+> **Mission:** Bridge Finance, Business and Technology.
 
-Rather than focusing on programming, this portfolio focuses on how Finance professionals can create value by combining **Finance, SAP, Business and AI technologies.**
 
----
 
-# 🎯 Mission
-
-> Bridging Finance, Business and Technology.
-
-I believe modern Finance professionals should not only report numbers but also improve business processes, support decision making and drive digital transformation.
 
 ---
 
