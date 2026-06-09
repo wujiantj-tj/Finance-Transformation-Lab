@@ -1,4 +1,4 @@
-# 🚀 Finance Transformation Lab
+# DE 🚀 Finance Transformation Lab
 
 ## SAP | KI | Prozessoptimierung | Manufacturing Finance
 
@@ -9,3 +9,7 @@ Dieses Repository dokumentiert meine Erfahrungen und Ideen rund um Finance Trans
 Mission:
 
 Finanzen, Business und Technologie verbinden.
+
+German version under construction.
+
+Back to [English](README.md)
