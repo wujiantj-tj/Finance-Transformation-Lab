@@ -1,3 +1,10 @@
+<div align="right">
+
+🇬🇧 English | 🇩🇪 Deutsch | 🇨🇳 中文
+
+</div>
+
+
 # 🚀 Finance Transformation Lab
 
 ### SAP | AI | Manufacturing Finance | Process Improvement | Digital Transformation
