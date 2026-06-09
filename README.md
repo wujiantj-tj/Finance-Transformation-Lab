@@ -10,8 +10,9 @@ This repository documents my continuous exploration of how **SAP, AI, automation
 
 It combines practical experience from **manufacturing controlling, SAP FI/CO, Power Query automation, project management and AI experimentation** into reusable templates, ideas and knowledge assets.
 
-> **Mission:** Bridge Finance, Business and Technology.
+Mission
 
+Explore how SAP, AI and Process Improvement can improve Finance organizations.
 
 
 
