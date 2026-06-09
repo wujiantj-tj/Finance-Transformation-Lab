@@ -1,4 +1,4 @@
-# 🚀 Finance Transformation Lab
+# CN 🚀 Finance Transformation Lab
 
 ## SAP｜AI｜流程优化｜制造业财务
 
@@ -9,3 +9,7 @@
 目标：
 
 连接财务、业务和技术。
+
+中文版建设中。
+
+返回 [English](README.md)
