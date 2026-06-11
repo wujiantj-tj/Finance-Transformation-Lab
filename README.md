@@ -8,7 +8,7 @@
 
 ![SAP FI/CO](https://img.shields.io/badge/SAP-FI%2FCO-blue)
 ![PMP](https://img.shields.io/badge/PMP-Certified-green)
-![AI](https://img.shields.io/badge/AI-Power%20User-orange)
+![AI](https://img.shields.io/badge/AI-Key%20User-orange)
 ![Power Query](https://img.shields.io/badge/Power_Query-Automation-yellow)
 ![Manufacturing](https://img.shields.io/badge/Manufacturing-Finance-red)
 
@@ -162,7 +162,7 @@ S/4HANA Project
 
 ⬇️
 
-AI Power User
+AI Key User
 
 ⬇️
 
