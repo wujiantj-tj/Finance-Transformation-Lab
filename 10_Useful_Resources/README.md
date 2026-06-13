@@ -11,6 +11,7 @@ A curated collection of learning materials, tools, and references for finance tr
 - [Power Query & Excel](#power-query--excel)
 - [Finance Process Improvement](#finance-process-improvement)
 - [Business Analysis & Valuation](#business-analysis--valuation)
+- [BPMN 2.0 & Process Modeling](#bpmn-20--process-modeling)
 - [Project Management](#project-management)
 - [Tools & Utilities](#tools--utilities)
 - [Certifications & Communities](#certifications--communities)
@@ -171,6 +172,74 @@ A curated collection of learning materials, tools, and references for finance tr
 
 ---
 
+## 📋 BPMN 2.0 & Process Modeling
+
+### Official BPMN Standards & Documentation
+- **BPMN Official Standard** - https://www.bpmn.org/
+- **OMG BPMN 2.0 Specification** - https://www.omg.org/spec/BPMN/2.0/
+- **BPMN 2.0 Quick Reference Guide** - https://www.bpmn.org/wiki/index.php/BPMN_2.0_By_Example
+
+### BPMN Learning Resources
+- **BPMN Tutorial** - https://www.bpmn.org/wiki/index.php/Main_Page
+- **Lucidchart BPMN Guide** - https://www.lucidchart.com/pages/bpmn
+- **Camunda BPMN Tutorials** - https://docs.camunda.org/
+- **Process Mining Institute** - https://www.processminingacademy.com/
+
+### BPMN Modeling Tools
+- **Camunda Modeler** - https://camunda.com/products/modeler/ (Free, open-source)
+- **Lucidchart** - https://www.lucidchart.com/ (Cloud-based diagramming)
+- **Draw.io / Diagrams.net** - https://www.diagrams.net/ (Free, open-source)
+- **Signavio** - https://www.signavio.com/ (Enterprise BPM platform)
+- **Bizagi** - https://www.bizagi.com/ (Process modeling & automation)
+- **ArchiMate & BPMN** - https://pubs.opengroup.org/architecture/togaf9-doc/arch/
+
+### BPMN Key Concepts
+- **Process Flows**: Sequential, parallel, conditional flows
+- **Events**: Start, intermediate, end events
+- **Gateways**: Exclusive, inclusive, parallel gateways
+- **Activities**: Tasks, subprocess, loops
+- **Swimlanes**: Participants and responsibilities
+- **Data Objects**: Data inputs and outputs
+- **Annotations**: Documentation and notes
+
+### BPMN for Finance Processes
+- **Month-End Closing Process** - Document flow, approvals, reconciliation steps
+- **Invoice-to-Cash Process** - Sales order to payment collection
+- **Procure-to-Pay Process** - Purchase requisition to payment
+- **Budget & Forecast Process** - Planning, consolidation, variance analysis
+- **Fixed Asset Management** - Acquisition, depreciation, disposal
+- **General Ledger Cycle** - Journal entry, posting, reporting
+
+### BPMN Best Practices
+- Keep processes simple and readable
+- Use consistent naming conventions
+- Document decision criteria
+- Include timelines and SLAs
+- Define roles and responsibilities
+- Identify automation opportunities
+- Mark pain points and improvement areas
+
+### BPMN Notation Quick Reference
+
+| Element | Purpose |
+|---------|---------|
+| Circle | Event (start, intermediate, end) |
+| Rectangle | Task or activity |
+| Diamond | Gateway (decision point) |
+| Horizontal Line | Swimlane (actor/department) |
+| Arrow | Flow and sequence |
+| Annotation | Comments and details |
+
+### Use Cases for Finance
+1. **Process Mapping**: Document current state and design future state
+2. **Compliance**: Show audit trails and control points
+3. **Automation**: Identify manual tasks for RPA/AI automation
+4. **Training**: Educate team members on processes
+5. **Communication**: Share standardized process understanding
+6. **Continuous Improvement**: Analyze and optimize workflows
+
+---
+
 ## 🎯 Project Management
 
 ### Official Certifications & Bodies
@@ -253,6 +322,10 @@ A curated collection of learning materials, tools, and references for finance tr
   - CFA (Chartered Financial Analyst) - https://www.cfainstitute.org/
   - FPA (Financial Planning Association) - https://www.onefpa.org/
 
+- **BPMN & Process Management**
+  - BPMN Modeler Certification - https://www.bpmn.org/
+  - Camunda Certified Professional - https://docs.camunda.org/
+
 ### Online Learning Platforms
 - **Coursera** - https://www.coursera.org/
 - **Udemy** - https://www.udemy.com/
@@ -304,6 +377,7 @@ A curated collection of learning materials, tools, and references for finance tr
 | **SAP Learning** | SAP Learning Hub, Help Portal, S4H Docs |
 | **AI Tools** | OpenAI, Google Gemini, Azure OpenAI, SAP Joule |
 | **BI Tools** | Power BI, SAP Analytics Cloud, Tableau |
+| **BPMN Modeling** | BPMN.org, Camunda, Lucidchart, Draw.io |
 | **Certifications** | PMP, SAP Certs, Microsoft Certs, CPA/CFA |
 | **Communities** | SAP Community, Stack Overflow, Reddit |
 | **Learning Platforms** | Coursera, SAP Training, LinkedIn Learning |
