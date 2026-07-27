@@ -3,7 +3,7 @@
 This section explores practical AI applications in Finance and Controlling.
 
 Topics include:
-
+- AI Finance Weekly newsletter: Controller / CFO Edition
 - Cost Analysis Agent
 - Forecast Review Agent
 - Business Case Generator
