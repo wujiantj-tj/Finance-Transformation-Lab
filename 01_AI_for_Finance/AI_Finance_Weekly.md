@@ -621,8 +621,11 @@ Verify that the returned OneDrive URL opens the uploaded PDF.
 
 
 Post the briefing only to the Teams channel specified by the user for that run. If no alternate channel is specified, use the standard channel below:
-  <html> <body> <!--StartFragment--><html><head></head><body>[AI in Finance | T-TAT-HAL400](https://teams.microsoft.com/l/channel/19%3AuHIU_DPEZds4wd0XzcTLXkzv7pYlvvmSFhVydUgGMxE1%40thread.tacv2/AI%20in%20Finance?groupId=9ca05e69-6985-4e9e-b2c7-75df88b6406b&amp;tenantId=db4cfc4c-4ec7-41df-8bfe-b9f4983df1dc&amp;ngc=true)</body></html><!--EndFragment--> </body> </html>
 
+
+
+
+  
 
 
 Do not publish the Teams post until the PDF quality gate has fully passed and the OneDrive link has been verified as clickable.
