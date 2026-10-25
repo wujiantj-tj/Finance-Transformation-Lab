@@ -58,6 +58,19 @@ An assistant for insight-driven slide titles, business insight extraction, and e
 
 [Explore the Business Presentation Advisor →](04_AI_Business_Presentation_Advisor/README.md) · [Open the private ChatGPT plugin](https://chatgpt.com/plugins/plugins_6ade270ff2448191843acc07b3f5ee6a)
 
+### Expert Learning Mentor
+
+**A Socratic learning assistant designed to build expert judgment, not memorization.**
+
+- Explains five first-principles thinking models
+- Compares three major debates and their assumptions
+- Builds ten progressively harder, case-based questions
+- Coaches one question at a time through guided discovery
+- Reviews reasoning strengths, gaps and next learning steps
+- Responds in the learner's language, including German
+
+[Explore the Expert Learning Mentor →](04_Expert_Learning_Mentor/README.md) · [Open the private ChatGPT plugin](https://chatgpt.com/plugins/plugins_6ade2bcfa83c8191b7dbbd2a3af28b49)
+
 *ChatGPT plugins run separately from GitHub. This repository documents their workflows and source instructions; it does not automatically synchronize updates with installed plugins. Private plugin access may be limited to the owner or authorized users.*
 
 ---
@@ -69,6 +82,7 @@ An assistant for insight-driven slide titles, business insight extraction, and e
 | 🤖 [AI for Finance](01_AI_for_Finance/README.md) | Finance AI agents and weekly intelligence briefing |
 | 🧾 [LHT_HK_Formatter](04_LHT_HK_Formatter/README.md) | SAP LHT costing export formatting and validation |
 | 🗣️ [Business Presentation Advisor](04_AI_Business_Presentation_Advisor/README.md) | Insight-driven slide titles, business insights, and presentation story structure |
+| 🧠 [Expert Learning Mentor](04_Expert_Learning_Mentor/README.md) | First-principles learning and Socratic reasoning practice |
 | ⚙️ SAP Transformation | SAP FI/CO knowledge |
 | 📊 Reporting Automation | Power Query & Excel |
 | 📈 Business Cases | NPV & EBITDA |
