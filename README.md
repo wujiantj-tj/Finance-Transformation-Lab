@@ -39,7 +39,7 @@ The workflow researches current developments in AI, SAP, Finance technology and 
 
 [Explore the AI for Finance project →](01_AI_for_Finance/README.md)
 
-*The plugin runs in ChatGPT; GitHub documents the project and can host reviewed sample outputs. A shareable plugin URL can be added here when available.*
+*The assistant runs in ChatGPT, while GitHub documents its reusable workflow and project files. [Explore the Business Presentation Advisor →](04_AI_Business_Presentation_Advisor/README.md) · [Open the private ChatGPT plugin](https://chatgpt.com/plugins/plugins_6ade270ff2448191843acc07b3f5ee6a). Access to the plugin may be limited to its owner or authorized users.*
 
 ---
 
@@ -48,6 +48,7 @@ The workflow researches current developments in AI, SAP, Finance technology and 
 | Section | Description |
 |----------|-------------|
 | 🤖 [AI for Finance](01_AI_for_Finance/README.md) | Finance AI agents and weekly intelligence briefing |
+| 🗣️ [Business Presentation Advisor](04_AI_Business_Presentation_Advisor/README.md) | Insight-driven slide titles, business insights, and presentation story structure |
 | ⚙️ SAP Transformation | SAP FI/CO knowledge |
 | 📊 Reporting Automation | Power Query & Excel |
 | 📈 Business Cases | NPV & EBITDA |
