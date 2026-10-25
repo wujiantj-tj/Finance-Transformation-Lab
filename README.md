@@ -21,15 +21,33 @@ This repository documents my continuous exploration of how **SAP, AI, automation
 It combines practical experience from **manufacturing controlling, SAP FI/CO, Power Query automation, project management and AI experimentation** into reusable templates, ideas and knowledge assets.
 
 > **Mission**
+>
+> To bridge Finance, Business and Technology by sharing practical knowledge, reusable templates and AI-enabled ideas for modern Finance organizations.
 
-To bridge Finance, Business and Technology by sharing practical knowledge, reusable templates and AI-enabled ideas for modern Finance organizations.
+---
+
+## ⭐ Featured AI project: AI Finance Weekly
+
+**A bilingual, source-linked weekly intelligence briefing for Controllers and CFOs.**
+
+The workflow researches current developments in AI, SAP, Finance technology and manufacturing digitalization, then turns selected stories into an English/German PDF briefing with business implications.
+
+- **Research:** relevant technology and industry developments
+- **Synthesis:** key takeaways for Controllers and CFOs
+- **Traceability:** direct links to original sources
+- **Delivery format:** bilingual PDF briefing
+
+[Explore the AI for Finance project →](01_AI_for_Finance/README.md)
+
+*The plugin runs in ChatGPT; GitHub documents the project and can host reviewed sample outputs. A shareable plugin URL can be added here when available.*
+
 ---
 
 # 📚 Quick Navigation
 
 | Section | Description |
 |----------|-------------|
-| 🤖 AI for Finance | AI agents and prompts |
+| 🤖 [AI for Finance](01_AI_for_Finance/README.md) | Finance AI agents and weekly intelligence briefing |
 | ⚙️ SAP Transformation | SAP FI/CO knowledge |
 | 📊 Reporting Automation | Power Query & Excel |
 | 📈 Business Cases | NPV & EBITDA |
@@ -59,14 +77,12 @@ Experienced Finance and SAP professional with expertise in:
 
 ## 🤖 AI for Finance
 
-* Finance AI Agents
+* AI Finance Weekly — Controller & CFO Briefing
 * Cost Analysis Assistant
 * Forecast Review Agent
 * Business Case Generator
 * Closing Checklist Agent
 * Knowledge Assistant
-
----
 
 ## ⚙️ SAP Transformation
 
@@ -78,8 +94,6 @@ Experienced Finance and SAP professional with expertise in:
 * Process Optimization
 * S/4HANA Learning Notes
 
----
-
 ## 📊 Reporting Automation
 
 * Power Query
@@ -87,8 +101,6 @@ Experienced Finance and SAP professional with expertise in:
 * Reporting Templates
 * KPI Dashboard Concepts
 * Data Preparation
-
----
 
 ## 📈 Business Case Evaluation
 
@@ -101,8 +113,6 @@ Topics include:
 * Investment Evaluation
 * Value Creation Programs
 
----
-
 ## 🔄 Finance Process Improvement
 
 * Month-end Closing
@@ -111,8 +121,6 @@ Topics include:
 * Business Partnering
 * Process Mapping
 * Internal Controls
-
----
 
 ## 📚 Lessons Learned
 
@@ -123,8 +131,6 @@ Continuous reflections on:
 * ERP authorization limitations
 * Integration challenges
 * Digital transformation
-
----
 
 ## 🔮 Future Finance
 
@@ -142,39 +148,7 @@ Research topics:
 
 # 🚀 Finance Transformation Journey
 
-Traditional Controlling
-
-⬇️
-
-SAP FI/CO
-
-⬇️
-
-SAP Key User
-
-⬇️
-
-Power Query Automation
-
-⬇️
-
-S/4HANA Project
-
-⬇️
-
-AI Key User
-
-⬇️
-
-Finance AI Prototyping
-
-⬇️
-
-Finance Transformation
-
-⬇️
-
-Digital Finance Leadership
+Traditional Controlling → SAP FI/CO → SAP Key User → Power Query Automation → S/4HANA Project → AI Key User → Finance AI Prototyping → Finance Transformation → Digital Finance Leadership
 
 ---
 
