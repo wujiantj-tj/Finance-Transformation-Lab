@@ -26,7 +26,9 @@ It combines practical experience from **manufacturing controlling, SAP FI/CO, Po
 
 ---
 
-## ⭐ Featured AI project: AI Finance Weekly
+## ⭐ Featured AI projects
+
+### AI Finance Weekly
 
 **A bilingual, source-linked weekly intelligence briefing for Controllers and CFOs.**
 
@@ -39,7 +41,24 @@ The workflow researches current developments in AI, SAP, Finance technology and 
 
 [Explore the AI for Finance project →](01_AI_for_Finance/README.md)
 
-*The assistant runs in ChatGPT, while GitHub documents its reusable workflow and project files. [Explore the Business Presentation Advisor →](04_AI_Business_Presentation_Advisor/README.md) · [Open the private ChatGPT plugin](https://chatgpt.com/plugins/plugins_6ade270ff2448191843acc07b3f5ee6a). Access to the plugin may be limited to its owner or authorized users.*
+### LHT_HK_Formatter
+
+**A specialist SAP Controlling formatter for TRUMPF LHT (Lohnherstellkosten) cost exports.**
+
+- Detects CK13N, CK53N, ZCo6, ZCo9 or structural alternatives
+- Defines a strict six-sheet Excel output contract
+- Handles German number formats, BOM hierarchy and period comparisons
+- Specifies supplier, operation, cost-summary and validation rules
+
+[Explore the LHT_HK_Formatter project →](04_LHT_HK_Formatter/README.md) · [Open the private ChatGPT plugin](https://chatgpt.com/plugins/plugins_6ade2a48501c8191a3d355c267113d34)
+
+### Business Presentation Advisor
+
+An assistant for insight-driven slide titles, business insight extraction, and executive presentation structure.
+
+[Explore the Business Presentation Advisor →](04_AI_Business_Presentation_Advisor/README.md) · [Open the private ChatGPT plugin](https://chatgpt.com/plugins/plugins_6ade270ff2448191843acc07b3f5ee6a)
+
+*ChatGPT plugins run separately from GitHub. This repository documents their workflows and source instructions; it does not automatically synchronize updates with installed plugins. Private plugin access may be limited to the owner or authorized users.*
 
 ---
 
@@ -48,6 +67,7 @@ The workflow researches current developments in AI, SAP, Finance technology and 
 | Section | Description |
 |----------|-------------|
 | 🤖 [AI for Finance](01_AI_for_Finance/README.md) | Finance AI agents and weekly intelligence briefing |
+| 🧾 [LHT_HK_Formatter](04_LHT_HK_Formatter/README.md) | SAP LHT costing export formatting and validation |
 | 🗣️ [Business Presentation Advisor](04_AI_Business_Presentation_Advisor/README.md) | Insight-driven slide titles, business insights, and presentation story structure |
 | ⚙️ SAP Transformation | SAP FI/CO knowledge |
 | 📊 Reporting Automation | Power Query & Excel |
