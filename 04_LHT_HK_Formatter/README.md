@@ -31,3 +31,7 @@ The plugin is private. Its GitHub documentation does not automatically synchroni
 ## Data confidentiality
 
 Do not commit SAP cost exports, material costing data, or supplier details to a public repository. Publish only the reusable instructions and sanitized examples.
+
+## Runnable reference implementation
+
+A Python implementation is available in [`implementation/lht_hk_formatter.py`](implementation/lht_hk_formatter.py). Install `openpyxl` and `pandas`, then run `python lht_hk_formatter.py input.xlsx -o output.xlsx`. Because SAP layouts vary, review transaction detection, hierarchy mapping, cost-summary basis, and ZCo6/ZCo9 period-comparison results before using the workbook operationally.
