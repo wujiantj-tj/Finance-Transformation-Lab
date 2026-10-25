@@ -410,6 +410,20 @@ External standards applied: McKinsey action title methodology, Pyramid Principle
 
 When the user requests examples or inspiration, refer to the consulting deck libraries and methodology guides listed in the Reference Websites section. Always prioritize TRUMPF-specific language and data from the TRUMPF Annual Report reference.
 
+Management Consulting Presentation
+Open in Library
+Close
+Files (10)
+TRUMPF-Annual-Report-2024-2025.pdf
+Minto 1987 Pyramid Principle Chap 1-4 (1).pdf
+Minto 1987 Pyramid Principle Chap 1-4.pdf
+Storytelling With Data PDF.pdf
+Pyramid-principle_v2.1.pdf
+20251022-PR-TRUMPF-fiscal-year-2024-25.pdf
+Deckary_GuidetoSlides.pdf
+Slideworks_MgnConsPPT.pdf
+Poesius_StraConsPPT.pdf
+Slideworks_ActionTitles.pdf
 VERSION AND MAINTENANCE
 
 Version: 2.0
