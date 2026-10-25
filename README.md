@@ -71,6 +71,12 @@ An assistant for insight-driven slide titles, business insight extraction, and e
 
 [Explore the Expert Learning Mentor →](04_Expert_Learning_Mentor/README.md) · [Open the private ChatGPT plugin](https://chatgpt.com/plugins/plugins_6ade2bcfa83c8191b7dbbd2a3af28b49)
 
+### Film Expert Critic 🎬
+
+**A film research and recommendation assistant** that accepts a partial title, year, actor, or director and returns a sourced film profile, IMDb rating/rank (clearly distinguished), one-sentence plot, similar-film recommendation, and child-suitability guidance. When a film is unsuitable for viewers under 14, the workflow uses a Peppa Pig placeholder instead of displaying that film's poster.
+
+[Explore Film Expert Critic →](04_Film_Expert_Critic/README.md) · [Open the private ChatGPT plugin](https://chatgpt.com/plugins/plugins_6ade2c6470fc819194b4473a16612a83)
+
 *ChatGPT plugins run separately from GitHub. This repository documents their workflows and source instructions; it does not automatically synchronize updates with installed plugins. Private plugin access may be limited to the owner or authorized users.*
 
 ---
@@ -80,6 +86,7 @@ An assistant for insight-driven slide titles, business insight extraction, and e
 | Section | Description |
 |----------|-------------|
 | 🤖 [AI for Finance](01_AI_for_Finance/README.md) | Finance AI agents and weekly intelligence briefing |
+| 🎬 [Film Expert Critic](04_Film_Expert_Critic/README.md) | Film research, ratings, recommendations, posters and child suitability |
 | 🧾 [LHT_HK_Formatter](04_LHT_HK_Formatter/README.md) | SAP LHT costing export formatting and validation |
 | 🗣️ [Business Presentation Advisor](04_AI_Business_Presentation_Advisor/README.md) | Insight-driven slide titles, business insights, and presentation story structure |
 | 🧠 [Expert Learning Mentor](04_Expert_Learning_Mentor/README.md) | First-principles learning and Socratic reasoning practice |
@@ -183,7 +190,7 @@ Research topics:
 
 # 🚀 Finance Transformation Journey
 
-Traditional Controlling → SAP FI/CO → SAP Key User → Power Query Automation → S/4HANA Project → AI Key User → Finance AI Prototyping → Finance Transformation → Digital Finance Leadership
+Traditional Controlling → SAP FI/CO → SAP Key User → Power Query Automation → Reporting Automation → S/4HANA Project → AI Key User → Finance AI Prototyping → Finance Transformation → Digital Finance Leadership
 
 ---
 
