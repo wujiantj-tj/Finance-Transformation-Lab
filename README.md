@@ -41,6 +41,17 @@ The workflow researches current developments in AI, SAP, Finance technology and 
 
 [Explore the AI for Finance project →](01_AI_for_Finance/README.md)
 
+### Personal AI Reading Knowledge System
+
+**A privacy-first prototype for organizing a personal digital reading library into an AI-assisted knowledge base.**
+
+- Indexes books with personal notes while keeping source records private
+- Uses metadata-based thematic classification and transparent prioritization
+- Separates source facts, heuristic labels and human-reviewed knowledge
+- Documents privacy boundaries and a roadmap for AI-assisted learning
+
+[Explore the Personal AI Reading Knowledge project →](11_Personal_AI_Reading_Knowledge/README.md)
+
 ### LHT_HK_Formatter
 
 **A specialist SAP Controlling formatter for TRUMPF LHT (Lohnherstellkosten) cost exports.**
