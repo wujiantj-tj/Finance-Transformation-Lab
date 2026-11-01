@@ -14,13 +14,16 @@ This project documents the public, reusable architecture and methodology of a We
 
 ## Current pilot snapshot
 
-The local pilot reported:
-- **240 books** in the personal-notes indexing scope.
-- **10 books** selected for the next prioritization batch.
-- Subject groups including Finance & Accounting, AI & Technology, Controlling/FP&A, Investment & Wealth Management, Economics & Business Strategy, Data Analytics & BI, and SAP/ERP & Enterprise Systems.
-- **185 records** in the displayed snapshot grouped as “Other / To be classified”.
+The latest targeted test reported:
+- **240 books** in the personal-note overview.
+- **10 books** in the first prioritized test batch.
+- **1 book** in that batch with notes successfully retrieved.
+- Retrieved from that test book: **11 highlights / underlined passages, 1 personal thought/comment and 1 personal review**.
+- Bookmark information was returned only as a count; bookmark content was not available for export through the tested interface.
 
-These are snapshot figures, not a claim that every record has been reviewed or semantically verified. Refresh them when the private index is updated.
+These are scoped test results. The nine books without notes found in the first batch are not proof that they have no notes, and the one-of-ten result must not be extrapolated to all 240 books.
+
+The broader metadata portfolio included subject groups such as Finance & Accounting, AI & Technology, Controlling/FP&A, Investment & Wealth Management, Economics & Business Strategy, Data Analytics & BI, and SAP/ERP & Enterprise Systems. One displayed snapshot grouped 185 records as “Other / To be classified”.
 
 ## Design principles
 
