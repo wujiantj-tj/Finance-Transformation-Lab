@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "business-presentation-advisor",
+  "version": "1.0.0",
+  "description": "Creates insight-driven slide titles, extracts business insights from data, and structures executive presentations using consulting communication principles.",
+  "author": {
+    "name": "Finance Transformation Lab"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Business Presentation Advisor",
+        "shortDescription": "Insight-driven business slides",
+        "longDescription": "An assistant for slide action titles, business insight extraction, and presentation storytelling. Applies the Pyramid Principle, Situation-Complication-Resolution, MECE, and concise executive communication. Supports company terminology when relevant and never invents data.",
+        "developerName": "Finance Transformation Lab",
+        "category": "Productivity",
+        "capabilities": [
+          "Interactive"
+        ],
+        "defaultPrompt": [
+          "Help me turn this slide into an insight-driven management message.",
+          "Extract the primary business insight and recommended action from this data.",
+          "Build a logical executive presentation story and slide sequence."
+        ]
+      }
+    }
+  }
+}
