@@ -25,6 +25,10 @@ These are scoped test results. The nine books without notes found in the first b
 
 The broader metadata portfolio included subject groups such as Finance & Accounting, AI & Technology, Controlling/FP&A, Investment & Wealth Management, Economics & Business Strategy, Data Analytics & BI, and SAP/ERP & Enterprise Systems. One displayed snapshot grouped 185 records as “Other / To be classified”.
 
+## Case studies
+
+- [Case Study 01 — From Personal Reading Notes to an AI-Ready Knowledge Asset](Case_Studies/01_Personal_Reading_Notes_to_AI_Knowledge.md) — a sanitized proof of concept covering 13 validated personal-annotation records from one test book, with privacy and scope limitations.
+
 ## Design principles
 
 1. **Privacy by default** — publish methods and aggregate results, not personal reading content.
