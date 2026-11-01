@@ -10,24 +10,28 @@ This project documents the public, reusable architecture and methodology of a We
 - Organize reading material into useful knowledge domains.
 - Identify a transparent, metadata-based professional-development shortlist.
 - Distinguish source records from derived classifications and AI recommendations.
-- Keep personal reading content under the account owner's control.
+- Preserve personal source material locally while publishing only sanitized methods and aggregate validation results.
 
-## Current pilot snapshot
+## Latest pilot snapshot
 
-The latest targeted test reported:
-- **240 books** in the personal-note overview.
+The latest local test reported:
+
+- **2,666 electronic-book records** and **27 album / audiobook records** in the inspected bookshelf snapshot.
+- **240 books with personal notes**, with **1,470 personal-note records** reported by the notebook overview.
 - **10 books** in the first prioritized test batch.
-- **1 book** in that batch with notes successfully retrieved.
-- Retrieved from that test book: **11 highlights / underlined passages, 1 personal thought/comment and 1 personal review**.
-- Bookmark information was returned only as a count; bookmark content was not available for export through the tested interface.
+- **1 of those 10 books** returned note content in the targeted content test. This is not a conclusion about the other books in the full library.
+- The tested book yielded **11 highlights / underlined passages, 1 personal thought/comment and 1 personal review** — **13 records total**.
+- All **13 source blocks** passed a verbatim comparison against the local pilot report, with 13 unique local record IDs.
+- A private local Markdown knowledge-base file was generated with the 13 records, preserving original wording and separating AI-generated topic suggestions from source text.
 
-These are scoped test results. The nine books without notes found in the first batch are not proof that they have no notes, and the one-of-ten result must not be extrapolated to all 240 books.
+Bookmark information was available only as a count; bookmark text was not exportable through the tested interface.
 
-The broader metadata portfolio included subject groups such as Finance & Accounting, AI & Technology, Controlling/FP&A, Investment & Wealth Management, Economics & Business Strategy, Data Analytics & BI, and SAP/ERP & Enterprise Systems. One displayed snapshot grouped 185 records as “Other / To be classified”.
+These are scoped test results. The one-of-ten result must not be extrapolated to all 240 books. The 1,470 count is the notebook overview total, not the number of note bodies retrieved in this pilot.
 
-## Case studies
+## Case studies and validation
 
-- [Case Study 01 — From Personal Reading Notes to an AI-Ready Knowledge Asset](Case_Studies/01_Personal_Reading_Notes_to_AI_Knowledge.md) — a sanitized proof of concept covering 13 validated personal-annotation records from one test book, with privacy and scope limitations.
+- [Case Study 01 — From Personal Reading Notes to an AI-Ready Knowledge Asset](Case_Studies/01_Personal_Reading_Notes_to_AI_Knowledge.md) — sanitized proof of concept and privacy controls.
+- [Pilot Validation Report](Validation_Report.md) — scope, latest counts, record-level validation and known limitations.
 
 ## Design principles
 
@@ -36,13 +40,16 @@ The broader metadata portfolio included subject groups such as Finance & Account
 3. **Evidence-aware classification** — title/metadata matches are discovery signals, not proof of full book content.
 4. **Human review** — use AI to prioritize and organize; keep final reading decisions with the user.
 5. **No credential leakage** — API keys and local environment files must never enter Git.
+6. **Source/AI separation** — original personal notes, AI tags and AI analysis remain distinct fields.
 
 ## Project structure
 
 - [Pilot Overview](AI_Reading_Pilot.md)
+- [Pilot Validation Report](Validation_Report.md)
 - [Knowledge Base Architecture](Knowledge_Base_Architecture.md)
 - [Classification Methodology](Classification_Methodology.md)
 - [Roadmap](Roadmap.md)
+- [Case Studies](Case_Studies/)
 
 ## Data and privacy boundary
 
@@ -52,11 +59,11 @@ Only aggregate counts, generic workflow descriptions, conceptual schemas and reu
 
 ## Technology concept
 
-The workflow combines a local export/index, metadata normalization, thematic classification, prioritization and Markdown reporting. A WeRead API integration may be used locally where the account owner has authorized access. This repository contains no credentials.
+The workflow combines a local export/index, metadata normalization, thematic classification, prioritization, note retrieval through documented interfaces, record-level validation and Markdown reporting. Personal source data remains in private local storage. This repository contains no credentials or populated personal-note records.
 
 ## Status
 
-**Prototype / ongoing personal knowledge-management project.** Classification quality, coverage and usefulness should be validated iteratively.
+**Proof of concept completed for one selected book; broader coverage and repeatability remain under validation.** The next step is to validate note retrieval across a small additional batch before scaling to the complete note-bearing book list.
 
 ## Disclaimer
 
