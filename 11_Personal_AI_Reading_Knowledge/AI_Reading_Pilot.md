@@ -35,9 +35,16 @@ The strict title-signal intersection for AI + Finance + Management returned no c
 
 ### Stage 4 — Personal-note knowledge-base pilot
 
-The documented workflow was tested on one selected book to verify retrieval of selected personal highlights and reflections. A later local indexing snapshot reported **240 books with personal notes** and produced a next-batch shortlist of 10 books.
+The personal-note overview reported **240 books with personal notes**. The first prioritized batch contained **10 books**. A targeted content test of that batch found personal notes for **one book**; the other nine did not yield personal-note content in this test.
 
-The public project excludes extracted note text, book identifiers, personal reflections and private book-level records.
+For the one book with notes, the workflow successfully retrieved:
+- **11 highlights / underlined passages**
+- **1 personal thought / comment**
+- **1 personal review**
+
+The source returned bookmark information only as a count field; bookmark content was not available for export through the tested interface.
+
+This is a targeted test result, not evidence that the other books in the full 240-book set lack notes. The test deliberately used a small prioritized batch rather than downloading every note at once.
 
 ## Snapshot indicators
 
@@ -45,11 +52,15 @@ The public project excludes extracted note text, book identifiers, personal refl
 |---|---:|---|
 | Electronic-book records in inspected export | 2,666 | Local snapshot |
 | Album / audiobook records | 27 | Separate record type |
-| Books in personal-note indexing scope | 240 | Later local snapshot |
-| Next-batch shortlist | 10 | Candidates for human review |
-| “Other / To be classified” in displayed subject summary | 185 | Backlog in that snapshot |
+| Books in personal-note overview | 240 | Overview count |
+| Books in first prioritized test batch | 10 | Selected for targeted testing |
+| Books with notes found in that batch | 1 | Result of this test only |
+| Highlights / underlined passages retrieved | 11 | Successful retrieval |
+| Personal thoughts / comments retrieved | 1 | Successful retrieval |
+| Personal reviews retrieved | 1 | Successful retrieval |
+| Bookmark content | Not available | Count field only in tested interface |
 
-Do not add figures from different stages as if they were measured at the same time or from the same dataset.
+Do not interpret the nine books without notes in this test batch as proof that they have no notes in the source account. Do not extrapolate the one-of-ten result to all 240 books.
 
 ## Validation and controls
 
@@ -59,8 +70,10 @@ Do not add figures from different stages as if they were measured at the same ti
 - Keep progress status separate from inferred reading progress.
 - Validate row counts and duplicate identifiers after generating local indexes.
 - Label title/metadata classifications as heuristic.
-- Keep personal note content and account credentials outside the public repository.
+- Distinguish overview counts from successfully retrieved note content.
+- Distinguish unavailable fields from empty fields and from API errors.
+- Keep personal note content, book identifiers and account credentials outside the public repository.
 
 ## What this pilot demonstrates
 
-The pilot demonstrates a practical architecture for converting personal reading metadata into a structured, reviewable learning portfolio. It does not demonstrate automated understanding of all book contents, complete export of every WeRead data type, or verified semantic classification of every indexed title.
+The pilot demonstrates a practical architecture for converting personal reading metadata into a structured, reviewable learning portfolio and confirms retrieval of selected note types for one tested book. It does not demonstrate automated understanding of all book contents, complete export of every WeRead data type, or verified semantic classification of every indexed title.
